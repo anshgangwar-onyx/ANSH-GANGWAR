@@ -1,0 +1,7 @@
+{
+  "name": "InterviewIQ",
+  "description": "A professional AI-driven voice interview platform providing real-time technical assessments and comprehensive career feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
